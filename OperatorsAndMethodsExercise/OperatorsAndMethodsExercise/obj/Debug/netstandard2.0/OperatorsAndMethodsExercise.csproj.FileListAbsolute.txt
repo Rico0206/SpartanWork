@@ -1,0 +1,9 @@
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\obj\Debug\netstandard2.0\OperatorsAndMethodsExercise.csprojAssemblyReference.cache
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\obj\Debug\netstandard2.0\OperatorsAndMethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\obj\Debug\netstandard2.0\OperatorsAndMethodsExercise.AssemblyInfoInputs.cache
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\obj\Debug\netstandard2.0\OperatorsAndMethodsExercise.AssemblyInfo.cs
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\bin\Debug\netstandard2.0\OperatorsAndMethodsExercise.deps.json
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\bin\Debug\netstandard2.0\OperatorsAndMethodsExercise.dll
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\bin\Debug\netstandard2.0\OperatorsAndMethodsExercise.pdb
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\obj\Debug\netstandard2.0\OperatorsAndMethodsExercise.dll
+C:\Users\Nishant Mandal\source\repos\OperatorsAndMethodsExercise\OperatorsAndMethodsExercise\obj\Debug\netstandard2.0\OperatorsAndMethodsExercise.pdb
