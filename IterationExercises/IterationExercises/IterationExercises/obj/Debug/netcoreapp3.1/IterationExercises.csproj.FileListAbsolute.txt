@@ -1,0 +1,13 @@
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\bin\Debug\netcoreapp3.1\IterationExercises.exe
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\bin\Debug\netcoreapp3.1\IterationExercises.deps.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\bin\Debug\netcoreapp3.1\IterationExercises.runtimeconfig.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\bin\Debug\netcoreapp3.1\IterationExercises.runtimeconfig.dev.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\bin\Debug\netcoreapp3.1\IterationExercises.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\bin\Debug\netcoreapp3.1\IterationExercises.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.csprojAssemblyReference.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.AssemblyInfoInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.AssemblyInfo.cs
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\IterationExercises\IterationExercises\IterationExercises\obj\Debug\netcoreapp3.1\IterationExercises.genruntimeconfig.cache

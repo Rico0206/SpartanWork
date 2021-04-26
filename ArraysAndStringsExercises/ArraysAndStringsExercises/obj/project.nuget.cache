@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jBZIB+MsPNSGthCs8aFek6Ih2L7o39WKFGYIXiWEPuTaMPxcAOxR+o4Yp9GQ/SCS+uIrtF2m79Ld8+TaDATJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phant\\OneDrive - Sparta Global Limited\\Documents\\Spartan\\ArraysAndStringsExercises\\ArraysAndStringsExercises\\ArraysAndStringsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phant\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

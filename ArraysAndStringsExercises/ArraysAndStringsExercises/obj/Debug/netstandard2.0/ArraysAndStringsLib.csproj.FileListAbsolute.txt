@@ -1,0 +1,18 @@
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.csprojAssemblyReference.cache
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.csproj.CoreCompileInputs.cache
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.AssemblyInfoInputs.cache
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.AssemblyInfo.cs
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\bin\Debug\netstandard2.0\ArraysAndStringsLib.deps.json
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\bin\Debug\netstandard2.0\ArraysAndStringsLib.dll
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\bin\Debug\netstandard2.0\ArraysAndStringsLib.pdb
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.dll
+C:\Users\Nishant Mandal\Documents\TRAINING\11. C# Fundamentals\CSharpCourseMaterial\Core\Labs\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\bin\Debug\netstandard2.0\ArraysAndStringsLib.deps.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\bin\Debug\netstandard2.0\ArraysAndStringsLib.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\bin\Debug\netstandard2.0\ArraysAndStringsLib.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.csprojAssemblyReference.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.AssemblyInfoInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.AssemblyInfo.cs
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\ArraysAndStringsExercises\ArraysAndStringsExercises\obj\Debug\netstandard2.0\ArraysAndStringsLib.pdb

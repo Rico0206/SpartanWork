@@ -1,0 +1,9 @@
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\bin\Debug\netcoreapp3.1\CollectionsExercises.deps.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\bin\Debug\netcoreapp3.1\CollectionsExercises.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\bin\Debug\netcoreapp3.1\CollectionsExercises.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\obj\Debug\netcoreapp3.1\CollectionsExercises.csprojAssemblyReference.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\obj\Debug\netcoreapp3.1\CollectionsExercises.AssemblyInfoInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\obj\Debug\netcoreapp3.1\CollectionsExercises.AssemblyInfo.cs
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\obj\Debug\netcoreapp3.1\CollectionsExercises.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\obj\Debug\netcoreapp3.1\CollectionsExercises.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\CollectionsExercises\CollectionsExercises\CollectionsExercises\obj\Debug\netcoreapp3.1\CollectionsExercises.pdb

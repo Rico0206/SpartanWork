@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcjADpGBe28uznxOFyyx3SVdftLSmqYxDeM3drmKSFVjlpCQ/d+u5T5uEuL+kJbcM1Cz7+OJbnEJOwSG5sIbyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phant\\OneDrive - Sparta Global Limited\\Documents\\Spartan\\ChocExercise\\ChocExercise\\ChocExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phant\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
