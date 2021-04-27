@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHywYwyzTbGr8/gqi044VG4/WNfaSxJrBZ9Y0yl7Ic8amsjSohyC4jyp9rTbVzF+kT5RX/XPN4LW/DMQ+2QuFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phant\\OneDrive - Sparta Global Limited\\Documents\\Spartan\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phant\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
