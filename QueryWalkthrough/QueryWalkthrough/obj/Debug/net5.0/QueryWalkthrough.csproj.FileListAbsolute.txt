@@ -1,0 +1,16 @@
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\QueryWalkthrough.exe
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\QueryWalkthrough.deps.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\QueryWalkthrough.runtimeconfig.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\QueryWalkthrough.runtimeconfig.dev.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\QueryWalkthrough.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\ref\QueryWalkthrough.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\bin\Debug\net5.0\QueryWalkthrough.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.csprojAssemblyReference.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.AssemblyInfoInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.AssemblyInfo.cs
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\ref\QueryWalkthrough.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\QueryWalkthrough\QueryWalkthrough\obj\Debug\net5.0\QueryWalkthrough.genruntimeconfig.cache

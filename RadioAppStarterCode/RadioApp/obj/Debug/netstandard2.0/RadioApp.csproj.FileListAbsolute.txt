@@ -1,0 +1,9 @@
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\bin\Debug\netstandard2.0\RadioApp.deps.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\bin\Debug\netstandard2.0\RadioApp.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\bin\Debug\netstandard2.0\RadioApp.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\obj\Debug\netstandard2.0\RadioApp.csprojAssemblyReference.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\obj\Debug\netstandard2.0\RadioApp.AssemblyInfoInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\obj\Debug\netstandard2.0\RadioApp.AssemblyInfo.cs
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\obj\Debug\netstandard2.0\RadioApp.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\obj\Debug\netstandard2.0\RadioApp.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\RadioAppStarterCode\RadioApp\obj\Debug\netstandard2.0\RadioApp.pdb

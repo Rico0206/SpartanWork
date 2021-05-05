@@ -1,0 +1,16 @@
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\SafariPark.exe
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\SafariPark.deps.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\SafariPark.runtimeconfig.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\SafariPark.runtimeconfig.dev.json
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\SafariPark.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\ref\SafariPark.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\bin\Debug\net5.0\SafariPark.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.csprojAssemblyReference.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.AssemblyInfoInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.AssemblyInfo.cs
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\ref\SafariPark.dll
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.pdb
+C:\Users\phant\OneDrive - Sparta Global Limited\Documents\Spartan\SafariParkSolution\SafariPark\obj\Debug\net5.0\SafariPark.genruntimeconfig.cache

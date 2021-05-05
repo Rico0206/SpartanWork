@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3jkAAhf2HOWLmTzywmhhOO9tMmzrz1BrzJ66QQL1B5/n49QFGwvMGUTj09toy1zgwxdsrlKBQLEO7/Z1dqZAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phant\\OneDrive - Sparta Global Limited\\Documents\\Spartan\\NetflixDatabase\\NetflixDatabase\\NetflixDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phant\\.nuget\\packages\\csvhelper\\27.0.2\\csvhelper.27.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
